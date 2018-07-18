@@ -13,9 +13,9 @@ It is advisable to skim trough [this](http://www.robotics.stanford.edu/~ang/pape
 
 
 
-___
-
 ## Environments
+
+___
 
 <div align="center">
    <br>
@@ -30,10 +30,10 @@ All Linux and Mac machines at IFI has a VMware Horizon client installed with the
 
 You can also install ROS on your own machine by following [this](http://wiki.ros.org/melodic/Installation) guide.
 
-___
 
 ## Collaboration and assignment work
 
+___
 
 <div align="center">
    <br>
@@ -62,11 +62,11 @@ You can use the slack channel `assignment 1` for general questions about the ass
 
 **Slack** works in a browser, but it's highly recommended to [download](https://slack.com/downloads) it as an app on your computer (there is also as an app for android/iOS). You can get a quick intro to slack by watching [these](https://youtu.be/9RJZMSsH7-g) [three](https://youtu.be/W8_tGC8pNvI) [videos](https://youtu.be/gvJAcElFMUU).
 
-___
+
 
 ## Setup
 
-
+___
 
 <div align="center">
    <br>
@@ -146,9 +146,10 @@ You should now see the robot standing in the middle of an empty world, awaiting 
 
 Enjoy!
 
-___
 
 ## Delivery
+
+___
 
 
 <div align="center">
