@@ -1,13 +1,26 @@
-## Assignment 1 User Guide & Requirements
+# Assignment 1 User Guide & Requirements
 
 In this assignment we will work with simulation. We will simulate the PD controller with gravity compensation using **ROS**, an open-source, meta-operating system for robots.
+
+<div align="center">
+   <br>
+  <img src="img\ROS-Development-BlogPost-01-ARTC+Update.png"><br><br>
+</div>
 
 ROS provides the services you would expect from an operating system, including hardware abstraction, low-level device control, implementation of commonly-used functionality, message-passing between processes, and package management. It also provides tools and libraries for obtaining, building, writing, and running code across multiple computers.
 
 It is advisable to skim trough [this](http://www.robotics.stanford.edu/~ang/papers/icraoss09-ROS.pdf) paper, and the first couple of [these tutorials](http://wiki.ros.org/ROS/Tutorials) to get a quick understanding of how ROS works.
 
 
-### Environments
+
+
+
+## Environments
+
+<div align="center">
+   <br>
+  <img src="img\vmware-horizon-cloud-overview-video.jpg"><br><br>
+</div>
 
 To save time on installation and setup config, we have allocated dedicated Ubuntu (16.04) machines with ROS installed. You can log in to these machines using [VMware Horizon client](https://my.vmware.com/web/vmware/info?slug=desktop_end_user_computing/vmware_horizon_clients/4_0) . Add the server: `vdi-apcon-prod.uio.no` and then login using your university credentials.
 
@@ -18,7 +31,12 @@ All Linux and Mac machines at IFI has a VMware Horizon client installed with the
 You can also install ROS on your own machine by following [this](http://wiki.ros.org/melodic/Installation) guide.
 
 
-### Colabortaion and assignment work
+## Colabortaion and assignment work
+
+<div align="center">
+   <br>
+  <img src="img\branching.png"><br><br>
+</div>
 
 Since your work on the dedicated linux machines may be lost, and to prepare you for collaboration in the final assignment, we will use **Git** for the work in this assignment.
 
@@ -32,12 +50,22 @@ Udacity has also a very good free [GitHub & Collaboration](https://www.udacity.c
 As a test that you are up to speed, and to get your own GitHub encyclopedia, *fork* this [GitHub Cheat Sheet](https://github.com/KvalheimRacing/github-cheat-sheet) repo to your own account at [github.uio.no](github.uio.no).
 
 
+<div align="center">
+   <br>
+  <img src="img\unfurl_why_slack.png"><br><br>
+</div>
+
 For communicating with eachother, a sub-group or everyone in the course, we have created a [Slack team](unik4490.slack.com). See invite on UiO mail.
 You can use the slack channel `assignment 1` for general questions about the assignment, and the channels `ros` and `control_theory` for discussion.
 
 **Slack** works in a browser, but it's highly recommended to [download](https://slack.com/downloads) it as an app on your computer (there is also as an app for android/iOS). You can get a quick intro to slack by watching [these](https://youtu.be/9RJZMSsH7-g) [three](https://youtu.be/W8_tGC8pNvI) [videos](https://youtu.be/gvJAcElFMUU).
 
-### Setup
+## Setup
+
+<div align="center">
+   <br>
+  <img src="img\maxresdefault.jpg"><br><br>
+</div>
 
 The dedicated ubuntu (16.04) machines should all have ros *Kinetic*. Check by running `rosversion -d` in your terminal.
 
@@ -113,8 +141,13 @@ You should now see the robot standing in the middle of an empty world, awaiting 
 Enjoy!
 
 
-### Delivery
+## Delivery
 
+
+<div align="center">
+   <br>
+  <img src="img\delivery.jpg"><br><br>
+</div>
 
 
 Make a repo called `TEK4030_Assignment_1_Simulation`, and a repo called `crustcrawler_controller` where the latter will be your ROS package. Both of these repositories shall be private repositories at [github.uio.no](github.uio.no), and make sure to add *eirikval* and *kimmat* as collaborators.
