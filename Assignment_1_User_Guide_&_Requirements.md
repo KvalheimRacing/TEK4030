@@ -13,7 +13,7 @@ It is advisable to skim trough [this](http://www.robotics.stanford.edu/~ang/pape
 
 
 
-
+___
 
 ## Environments
 
@@ -24,14 +24,16 @@ It is advisable to skim trough [this](http://www.robotics.stanford.edu/~ang/pape
 
 To save time on installation and setup config, we have allocated dedicated Ubuntu (16.04) machines with ROS installed. You can log in to these machines using [VMware Horizon client](https://my.vmware.com/web/vmware/info?slug=desktop_end_user_computing/vmware_horizon_clients/4_0) . Add the server: `vdi-apcon-prod.uio.no` and then login using your university credentials.
 
-Additionally if you use a US keybard layout you can use a [browser](https://vdi-apcon-prod.uio.no)-[based](http://ros.ifi.uio.no) web client (there are bugs with other keyboard layouts).
+Additionally if you use a US keyboard layout you can use a [browser](https://vdi-apcon-prod.uio.no)-[based](http://ros.ifi.uio.no) web client (there are bugs with other keyboard layouts).
 
 All Linux and Mac machines at IFI has a VMware Horizon client installed with the server already added, so you can work from there if needed.
 
 You can also install ROS on your own machine by following [this](http://wiki.ros.org/melodic/Installation) guide.
 
+___
 
-## Colabortaion and assignment work
+## Collaboration and assignment work
+
 
 <div align="center">
    <br>
@@ -55,12 +57,16 @@ As a test that you are up to speed, and to get your own GitHub encyclopedia, *fo
   <img src="img\unfurl_why_slack.png"><br><br>
 </div>
 
-For communicating with eachother, a sub-group or everyone in the course, we have created a [Slack team](unik4490.slack.com). See invite on UiO mail.
+For communicating with each other, a sub-group or everyone in the course, we have created a [Slack team](unik4490.slack.com). See invite on UiO mail.
 You can use the slack channel `assignment 1` for general questions about the assignment, and the channels `ros` and `control_theory` for discussion.
 
 **Slack** works in a browser, but it's highly recommended to [download](https://slack.com/downloads) it as an app on your computer (there is also as an app for android/iOS). You can get a quick intro to slack by watching [these](https://youtu.be/9RJZMSsH7-g) [three](https://youtu.be/W8_tGC8pNvI) [videos](https://youtu.be/gvJAcElFMUU).
 
+___
+
 ## Setup
+
+
 
 <div align="center">
    <br>
@@ -140,6 +146,7 @@ You should now see the robot standing in the middle of an empty world, awaiting 
 
 Enjoy!
 
+___
 
 ## Delivery
 
@@ -152,9 +159,9 @@ Enjoy!
 
 Make a repo called `TEK4030_Assignment_1_Simulation`, and a repo called `crustcrawler_controller` where the latter will be your ROS package. Both of these repositories shall be private repositories at [github.uio.no](github.uio.no), and make sure to add *eirikval* and *kimmat* as collaborators.
 
-In order to do this assignment you will need to have knowledge equivalent of the following turorials:
+In order to do this assignment you will need to have knowledge equivalent of the following tutorials:
 
-- [Navigating the Filesystem](http://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem)
+- [Navigating the File system](http://wiki.ros.org/ROS/Tutorials/NavigatingTheFilesystem)
 - [Creating Package](http://wiki.ros.org/ROS/Tutorials/CreatingPackage)
 - [Building Packages](http://wiki.ros.org/ROS/Tutorials/BuildingPackages)
 - [Understanding Nodes](http://wiki.ros.org/ROS/Tutorials/UnderstandingNodes)
