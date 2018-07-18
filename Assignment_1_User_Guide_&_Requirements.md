@@ -15,7 +15,6 @@ It is advisable to skim trough [this](http://www.robotics.stanford.edu/~ang/pape
 
 ## Environments
 
-___
 
 <div align="center">
    <br>
@@ -33,7 +32,6 @@ You can also install ROS on your own machine by following [this](http://wiki.ros
 
 ## Collaboration and assignment work
 
-___
 
 <div align="center">
    <br>
@@ -65,8 +63,6 @@ You can use the slack channel `assignment 1` for general questions about the ass
 
 
 ## Setup
-
-___
 
 <div align="center">
    <br>
@@ -149,7 +145,6 @@ Enjoy!
 
 ## Delivery
 
-___
 
 
 <div align="center">
