@@ -7,7 +7,7 @@ In this assignment we will work with simulation. We will simulate the PD control
   <img src="img\ROS-Development-BlogPost-01-ARTC+Update.png"><br><br>
 </div>
 
-ROS provides the services you would expect from an operating system, including hardware abstraction, low-level device control, implementation of commonly-used functionality, message-passing between processes, and package management. It also provides tools and libraries for obtaining, building, writing, and running code across multiple computers.
+ROS provides all the services you would expect from an operating system, including hardware abstraction, low-level device control, implementation of commonly-used functionality, message-passing between processes, and package management. It also provides tools and libraries for obtaining, building, writing, and running code across multiple computers.
 
 It is advisable to skim trough [this](http://www.robotics.stanford.edu/~ang/papers/icraoss09-ROS.pdf) paper, and the first couple of [these tutorials](http://wiki.ros.org/ROS/Tutorials) to get a quick understanding of how ROS works.
 
